@@ -1,1 +1,1 @@
-# Lista-de-Exercicios 1, 2 ,3 
+Este Repositório apresenta atividades da disciplina Técnica e desenvolvimento de algoritmo, que tem como ementa o Estudo das formas de representação do pensamento lógico por meio de construção de algoritmos.
